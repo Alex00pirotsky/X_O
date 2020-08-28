@@ -2,7 +2,7 @@
 #include "Win.h"
 #include "other_stuff.h"
 #include "II.h"
-
+#include "Human.h"
 
 
 void lets_play()
