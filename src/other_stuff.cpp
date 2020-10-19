@@ -2,7 +2,7 @@
 // Created by zeus on 28.08.2020.
 //
 
-#include "other_stuff.h"
+#include "../headers/other_stuff.h"
 
 
 char **make_double_array(int col,int line)

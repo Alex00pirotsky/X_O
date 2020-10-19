@@ -2,8 +2,8 @@
 // Created by zeus on 28.08.2020.
 //
 
-#include "Main_game.h"
-#include "other_stuff.h"
+#include "../headers/Main_game.h"
+#include "../headers/other_stuff.h"
 
 
 Main_Game:: Main_Game ()

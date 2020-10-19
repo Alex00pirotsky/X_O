@@ -2,7 +2,7 @@
 // Created by zeus on 28.08.2020.
 //
 
-#include "Human.h"
+#include "../headers/Human.h"
 
 Main_Game *curr_game;
 void Human:: pr_open()

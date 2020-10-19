@@ -1,8 +1,8 @@
-#include "Main_game.h"
-#include "Win.h"
-#include "other_stuff.h"
-#include "II.h"
-#include "Human.h"
+#include "../headers/Main_game.h"
+#include "../headers/Win.h"
+#include "../headers/other_stuff.h"
+#include "../headers/II.h"
+#include "../headers/Human.h"
 
 
 void lets_play()

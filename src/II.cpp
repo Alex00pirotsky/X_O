@@ -2,7 +2,7 @@
 // Created by zeus on 28.08.2020.
 //
 
-#include "II.h"
+#include "../headers/II.h"
 
 int     II:: one_turn_to_win()
 {
